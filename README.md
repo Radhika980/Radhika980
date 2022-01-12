@@ -22,7 +22,7 @@
 
 <p align="left"> 
     <
-    <a href="https://www.tutorialspoint.com/cprogramming/c_overview.htm" target="_blank"><img src="https://img.icons8.com/ios-filled/48/000000/c.png"/>
+    <a href="https://www.tutorialspoint.com/cprogramming/c_overview.htm" target="_blank"><img src="<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
     <a href="https://www.tutorialspoint.com/cplusplus/index.htm" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 

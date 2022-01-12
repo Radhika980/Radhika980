@@ -22,6 +22,8 @@
 
 <p align="left"> 
     <
+    <a href="https://www.tutorialspoint.com/cprogramming/c_overview.htm" target="_blank"><img src="https://img.icons8.com/ios-filled/48/000000/c.png"/>
+    <a href="https://www.tutorialspoint.com/cplusplus/index.htm" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
@@ -32,7 +34,7 @@
 
 <p align="center">
     <a href="https://github.com/Radhika980/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Radhika's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Radhika's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Radhika980&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 

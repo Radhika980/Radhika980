@@ -6,13 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
-
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **My Portfolio**
 
 - 📫 How to reach me **aggarwalradhika9800@gmail.com**
 
@@ -21,7 +17,6 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <
     <a href="https://www.tutorialspoint.com/cprogramming/c_overview.htm" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
     <a href="https://www.tutorialspoint.com/cplusplus/index.htm" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -52,15 +47,10 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Radhika980/github-readme-activity-graph"><img alt="Radhika's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Radhika980&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## Connect with me:
 <p align="left">
 <a href = "https://www.instagram.com/_radhika980/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-></a>
+</a>
 
 </p>
 

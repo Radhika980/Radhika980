@@ -1,5 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Radhika980)](https://github.com/Radhika980/github-profile-trophy)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Radhika</h1>
 <h3 align="center">I'm a passionate Engineer from India.</h3>
 

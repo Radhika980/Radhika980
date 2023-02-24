@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **aggarwalradhika9800@gmail.com**
 
-- ⚡ Fun fact **I play badminton and go to the GYM very often.**
+- ⚡ Fun fact **I play badminton and go to the GYM very often .**
 
 ## 🚀 Languages and Tools:
 

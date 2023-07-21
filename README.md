@@ -1,18 +1,12 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Radhika980)](https://github.com/Radhika980/github-profile-trophy)
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Radhika</h1>
-<h3 align="center">I'm a passionate Engineer from India.</h3>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, there! 
 
-
-## 🙋‍♂️ About Me
-
-- 🌱 I’m currently learning **Data Structures and Algorithms .**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **aggarwalradhika9800@gmail.com**
-
-- ⚡Ask me about anything.I am happy to help**
+<h2> I'm Radhika! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+ 
+- 👩‍💻 Software Engineer with a passion for solving complex problems and building innovative solutions.
+- 🌱 Exploring the fascinating world of Artificial Intelligence and Machine Learning.
+- 🔭 Love working on front-end development and creating delightful user experiences.
+- 🤔 Seeking guidance or advice related to AI/ML or career growth in tech.
+- 💬 Feel free to reach out for any tech-related discussions or if you need assistance.
 
 ## 🚀 Languages and Tools:
 

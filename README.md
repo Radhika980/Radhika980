@@ -3,9 +3,9 @@
 <h2> I'm Radhika! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  
 - 👩‍💻 Software Engineer with a passion for solving complex problems and building innovative solutions.
-- 🌱 Exploring the fascinating world of Artificial Intelligence and Machine Learning.
+- 🌱 Exploring the fascinating world of Data Science and Machine Learning.
 - 🔭 Love working on front-end development and creating delightful user experiences.
-- 🤔 Seeking guidance or advice related to AI/ML or career growth in tech.
+- 🤔 Seeking guidance or advice related to ML or career growth in tech.
 - 💬 Feel free to reach out for any tech-related discussions or if you need assistance.
 
 ## 🚀 Languages and Tools:

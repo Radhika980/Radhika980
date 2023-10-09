@@ -1,12 +1,15 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, there! 
+<img  align="center" src="https://github.com/bg.gif"></a>
+👋 Greetings fellow techies! I'm Radhika, a dynamic 4th-year computer science student at Thapar Institute of Engineering & Technology.
 
-<h2> I'm Radhika! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
- 
-- 👩‍💻 Software Engineer with a passion for solving complex problems and building innovative solutions.
-- 🌱 Exploring the fascinating world of Data Science and Machine Learning.
-- 🔭 Love working on front-end development and creating delightful user experiences.
-- 🤔 Seeking guidance or advice related to ML or career growth in tech.
-- 💬 Feel free to reach out for any tech-related discussions or if you need assistance.
+💻 I am deeply passionate about all things tech and software development, boasting a versatile skill set that spans a multitude of programming languages, including <b>C/C++, Java, Python, and many more</b>. I'm always on the hunt for opportunities to expand my knowledge and expertise.
+
+🚀 Currently, I'm diving headfirst into <b>React</b>, sharpening my skills and conquering new technologies to stay at the forefront of the industry. As a forward-thinking individual, I'm actively seeking internships and part-time positions to gain hands-on experience and establish a solid foundation in the tech world.
+
+📚 Beyond coding, I'm an avid reader and tech enthusiast, staying up-to-date with the latest trends and developments in the ever-evolving tech landscape. Additionally, I indulge in <b>Photography and Reading</b> to keep my creative juices flowing.
+
+📫 Interested in collaborating on innovative projects or exploring new opportunities? Don't hesitate to reach out to me at <a href="mailto:aggarwalradhika9800@gmail.com">aggarwalradhika9800@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/radhika-aggarwal/">LinkedIn</a>. Let's team up and create something truly exceptional together!
+
 
 ## 🚀 Languages and Tools:
 

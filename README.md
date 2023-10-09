@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, there! 
-<img  align="center" src="https://github.com/bg.gif"></a>
+<img  align="center" src="https://github.com/Radhika980/Radhika980/blob/master/bg.mp4"></a>
 👋 Greetings fellow techies! I'm Radhika, a dynamic 4th-year computer science student at Thapar Institute of Engineering & Technology.
 
 💻 I am deeply passionate about all things tech and software development, boasting a versatile skill set that spans a multitude of programming languages, including <b>C/C++, Java, Python, and many more</b>. I'm always on the hunt for opportunities to expand my knowledge and expertise.

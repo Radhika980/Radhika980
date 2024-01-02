@@ -14,11 +14,15 @@
         </video>
     </div>
     <p>
-        👩‍💻 Software Engineer with a passion for solving complex problems and building innovative solutions.<br>
-        🌱 Exploring the fascinating world of Data Science and Machine Learning.<br>
-        🔭 Love working on front-end development and creating delightful user experiences.<br>
-        🤔 Seeking guidance or advice related to ML or career growth in tech.<br>
-        💬 Feel free to reach out for any tech-related discussions or if you need assistance.
+        👋 Greetings, fellow techies! I'm <b>Radhika</b>, a dynamic 4th year computer science student at <b>Thapar Institute of Engineering and Technology</b>.
+<br><br>
+💻 Fully immersed in the realm of tech and software development, I thrive on mastering diverse programming languages like <b>C++, Python, R, and more</b>. My hunger for knowledge keeps me constantly exploring new technologies and expanding my skill set.
+<br><br>
+🚀 Presently, I'm delving deep into the world of <b>Azure</b> and honing my skills in <b>Power Bi</b>, keeping up with the latest in emerging tech. Actively seeking internships and part-time roles, I'm keen on gaining practical experience and forging my path in the tech industry.
+<br><br>
+📚 Apart from coding, I'm an avid reader and tech aficionado, always staying updated on the latest trends in the ever-evolving tech landscape. Beyond that, I find joy in exploring <b>Gaming, Music Production, and Hiking</b> to fuel my creative side.
+<br><br>
+📫 Interested in collaborating on exciting projects or exploring new opportunities? Feel free to connect via email at <a href="mailto:aggarwalradhika980@gmail.com">aggarwalradhika980@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/radhika-aggarwal1/">LinkedIn</a>. Let's team up and create something extraordinary together!
     </p>
 </body>
 </html>
@@ -41,11 +45,15 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a href="https://github.com/Radhika980/github-readme-stats"><img alt="Radhika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Radhika980&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Radhika980/github-readme-stats"><img alt="Radhika's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhika980&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<div style="background-color: #292D3E; border-radius: 12px; padding: 24px; display: flex; justify-content: space-around; align-items: center; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+  <a href="https://github.com/Radhika980/github-readme-stats">
+    <img alt="Radhika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Radhika980&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/Radhika980/github-readme-stats">
+    <img alt="Radhika's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radhika980&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+
 
 
 <br/>

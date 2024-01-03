@@ -8,11 +8,9 @@
     <h1 style="text-align: center;">
         <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" alt="Wave Emoji"> Hi, there!
     </h1>
-    <div style="text-align: center;">
-        <video width="640" height="360" controls>
-            <source src="https://www.example.com/your-video.mp4" type="video/mp4">
-        </video>
-    </div>
+    <div align="center">
+        <img src="https://github.com/Kashyap-Harsh/Kashyap-Harsh/blob/master/HarshK.gif" align="center" style="width: 80%" />
+    </div> 
     <p>
         👋 Greetings, fellow techies! I'm <b>Radhika</b>, a dynamic 4th year computer science student at <b>Thapar Institute of Engineering and Technology</b>.
 <br><br>
